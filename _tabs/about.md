@@ -101,5 +101,5 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 - Collected, analyzed, and interpreted complex datasets
 - Collaborated with interdisciplinary teams to derive scientific insights
 
-## 🌐 Languages: `Hebrew`,`English`, `Russian`
+## 🌐 Languages: Hebrew, English, Russian.
  
