@@ -5,6 +5,9 @@ order: 4
 ---
 
 # 👋 Hello, I'm Nisan Sher
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisan-sher/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisanMan)
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisansher)  
 
 A **mathematician turned data scientist**, passionate about **AI**, **Machine Learning**, and **data-driven insights**.
 
@@ -14,15 +17,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 - Seminar on **Quantum Computing**, focusing on **Shor’s Algorithm**
 - Co-author of a peer-reviewed publication on virus transmission in garlic seeds: [MDPI Journal](https://doi.org/10.3390/v14102092)  
   <img src="https://www.mdpi.com/viruses/viruses-14-02092/article_deploy/html/images/viruses-14-02092-g005.png" alt="Garlic virus research figure" width="300"/>
-
-## 🧪 Professional Experience
-
-**Research Assistant** at Volcani Center ARO (2021–2023):
-
-- Conducted research on virus transmission in seeds and biotechnology
-- Collected, analyzed, and interpreted complex datasets
-- Collaborated with interdisciplinary teams to derive scientific insights
-
+ 
 ## 🛠️ Technical Skills
 
 <div class="table-wrapper">
@@ -90,12 +85,13 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
   [Google Certificate](https://www.credly.com/badges/e81e2d15-ed99-4264-a143-5ac090ce7c4d/public_url)  
   <img src="https://images.credly.com/size/220x220/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Data Analytics Certificate" width="200"/>
 
-## 🌐 Languages
+## 🧪 Professional Experience
 
-- **Hebrew**: Native
-- **English**: Fluent, Professional
-- **Russian**: Native
+**Research Assistant** at Volcani Center ARO (2021–2023):
 
-## 🤝 Let's Connect
+- Conducted research on virus transmission in seeds and biotechnology
+- Collected, analyzed, and interpreted complex datasets
+- Collaborated with interdisciplinary teams to derive scientific insights
 
-- [LinkedIn](https://linkedin.com/in/nisan-sher/)
+## 🌐 Languages: `Hebrew`,`English`, `Russian`
+ 
