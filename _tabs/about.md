@@ -30,7 +30,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 ## 🛠️ Technical Skills
 
 <div class="table-wrapper">
-  <table>
+  <table align="center">
     <tr>
       <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -90,9 +90,8 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 ## 📄 Certifications
 
-- **Advanced Data Analytics Professional Certificate** by Google (2025)  
-  [Google Certificate](https://www.credly.com/badges/e81e2d15-ed99-4264-a143-5ac090ce7c4d/public_url)  
-  <img src="https://images.credly.com/size/220x220/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Data Analytics Certificate" width="200"/>
+- **Advanced Data Analytics Professional** by [Google Certificate (2025)](https://www.credly.com/badges/e81e2d15-ed99-4264-a143-5ac090ce7c4d/public_url) 
+  <div style="text-align: center;"><img src="https://images.credly.com/size/220x220/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Data Analytics Certificate" width="200"/></div>
 
 ## 🧪 Professional Experience
 
