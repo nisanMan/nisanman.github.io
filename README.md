@@ -57,3 +57,47 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 ```
+## my blog
+
+```mermaid
+flowchart TB
+    %% Data Analysis
+    DA["Data Analysis"]
+    DA --> Visualization["Visualization"]
+    DA --> Statistics["Statistics"]
+    DA --> Cleaning["Data Cleaning"]
+```
+```mermaid
+flowchart TB
+    %% Machine Learning
+    ML["Machine Learning"]
+    ML --> Mathematics["Mathematics"]
+    ML --> SKLearn["Scikit‑Learn Workflow"]
+    ML --> NN["NN"]
+```
+```mermaid
+flowchart TB
+    %% Web Development
+    WD["Web Development"]
+    WD --> Jekyll["Jekyll"]
+    WD --> React["React"]
+    WD --> NextJS["Next.js"]
+```
+```mermaid
+flowchart TB
+    %% Hobbies
+    HB["Hobbies"]
+    HB --> Gallery["Electronic Art Gallery"]
+    HB --> Music["Music"]
+```
+```mermaid
+flowchart TB
+    %% Tools
+    Tools["Tools"]
+    Tools --> Git["Version Control (Git)"]
+    Tools --> Docker["Virtual Env (Docker)"]
+    Tools --> SQL["Database (SQL)"]
+    Tools --> MermaidDiag["Flow Diagrams (Mermaid)"]
+    Tools --> Markdown["Markdown"]
+    Tools --> Jupyter["Jupyter Presentations"]
+```
