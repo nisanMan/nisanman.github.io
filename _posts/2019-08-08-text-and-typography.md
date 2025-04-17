@@ -13,7 +13,7 @@ description: Negev Rain Annual
 
 [![IMS Logo](https://ims.gov.il/themes/imst/ims/images/logo.jpg)](https://ims.gov.il/en)<br>
 ## slideshow
-{% include embed/webpage.html url="https://nisanman.github.io/NegevRainAnnual/#/" height="700"%}
+{% include embed/webpage.html url="https://nisanman.github.io/NegevRainAnnual/#/1/1" height="700"%}
 
 [slideshows link](https://nisanman.github.io/NegevRainAnnual/#/)
 This is a data presentation project based on rainfall analysis using Python and Jupyter Notebook.
